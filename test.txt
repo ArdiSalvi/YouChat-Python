@@ -1,1 +1,1 @@
-Hey there this is just a test to see if my auto-update works.
+Delete [test.txt]
